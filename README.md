@@ -10,3 +10,6 @@ HTML
 CSS
 PYTHON
 Shell
+
+# Contact details
+incase of any issues,contact me through ny email: khalidaserar@gmail.com
