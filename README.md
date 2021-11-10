@@ -11,5 +11,9 @@ CSS
 PYTHON
 Shell
 
+# Dependensies
+Flask Bootsrap, Flask WTF forms, Flask Mail, Flask Login, Flask Venv
+
+
 # Contact details
 incase of any issues,contact me through ny email: khalidaserar@gmail.com
